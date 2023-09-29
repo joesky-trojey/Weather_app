@@ -12,7 +12,7 @@ from PIL import Image, ImageTk
 import requests, json, geocoder, io, datetime, random
 
 # OpenWeatherMap API key variable held here
-api_key = '3d9adfed9700544cc42b339670f2cabf'
+api_key = 'Your key'
 
 #get your current location
 def get_geo_coordinates():
